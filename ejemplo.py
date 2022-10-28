@@ -24,3 +24,5 @@ def dividir(a, b):
 
 
 print(dividir(10, 2))
+
+print(restar(5,1))
