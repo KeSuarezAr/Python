@@ -1,3 +1,5 @@
-suma = 2+2 #esto es una suma
+suma = 1+2
+resta = 2-1
 
-#esto es un comentario de una linea
+print(suma)
+print(resta)
