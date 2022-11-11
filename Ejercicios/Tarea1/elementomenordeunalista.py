@@ -4,11 +4,11 @@ from random import random
 def elementomenorlista():
 
     lista = []
-    x = 0
+    count = 0
 
-    while x < 10:
+    while count < 10:
         lista.append(round(random()*10))
-        x += 1
+        count += 1
 
     print(lista)
     return min(lista)

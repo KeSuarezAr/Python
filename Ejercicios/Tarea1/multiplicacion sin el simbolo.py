@@ -1,13 +1,13 @@
-def multiplicarsinsimbolo(ma, mb):
+def multiplicarsinsimultiplicadorolo(numeroBase, multiplicador):
 
-    x = 0
-    mr = 0
+    count = 0
+    resultado = 0
 
-    while x < mb:
-        mr = mr + ma
-        x += 1
+    while count < multiplicador:
+        resultado = resultado + numeroBase
+        count += 1
 
-    return mr
+    return resultado
 
 
-print(multiplicarsinsimbolo(2, 5))
+print(multiplicarsinsimultiplicadorolo(2, 5))
