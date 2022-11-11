@@ -45,7 +45,7 @@ def par():
 par()
 
 
-# Calcular los primeros 20 numeros pares, pero retirar el 10
+# Calcular los multiplos de 5 pero detener la ejecucion en el 3ro
 
 
 def multiplos():
